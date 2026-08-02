@@ -1,0 +1,6 @@
+{
+  "name": "Join Codive",
+  "description": "Join Codive — Official application and community portal for Codive Youth Club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
